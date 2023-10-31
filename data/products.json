@@ -1,0 +1,75 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "image": "product1.jpg",
+        "title": "Product 1",
+        "description": "This is the description for Product 1. It is a high-quality product with great features.",
+        "price": 19.99
+      },
+      {
+        "id": 2,
+        "image": "product2.jpg",
+        "title": "Product 2",
+        "description": "Product 2 is a versatile item with multiple uses. It's perfect for your needs.",
+        "price": 29.99
+      },
+      {
+        "id": 3,
+        "image": "product3.jpg",
+        "title": "Product 3",
+        "description": "Introducing Product 3 - the latest innovation in the market. Don't miss out!",
+        "price": 39.99
+      },
+      {
+        "id": 4,
+        "image": "product4.jpg",
+        "title": "Product 4",
+        "description": "Product 4 is a stylish and functional item that will enhance your daily life.",
+        "price": 49.99
+      },
+      {
+        "id": 5,
+        "image": "product5.jpg",
+        "title": "Product 5",
+        "description": "Upgrade your experience with Product 5. It's a must-have for enthusiasts.",
+        "price": 59.99
+      },
+      {
+        "id": 6,
+        "image": "product6.jpg",
+        "title": "Product 6",
+        "description": "Product 6 is designed for maximum performance and durability.",
+        "price": 69.99
+      },
+      {
+        "id": 7,
+        "image": "product7.jpg",
+        "title": "Product 7",
+        "description": "Explore the features of Product 7. It's perfect for your daily activities.",
+        "price": 79.99
+      },
+      {
+        "id": 8,
+        "image": "product8.jpg",
+        "title": "Product 8",
+        "description": "Product 8 is the solution you've been looking for. Get it now!",
+        "price": 89.99
+      },
+      {
+        "id": 9,
+        "image": "product9.jpg",
+        "title": "Product 9",
+        "description": "Enhance your lifestyle with Product 9. It's both elegant and functional.",
+        "price": 99.99
+      },
+      {
+        "id": 10,
+        "image": "product10.jpg",
+        "title": "Product 10",
+        "description": "Product 10 is a top-rated choice. Experience the difference!",
+        "price": 109.99
+      }
+    ]
+  }
+  
