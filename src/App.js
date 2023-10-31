@@ -1,14 +1,17 @@
 import {React} from 'react'
 import ProductComponent from './components/product'
-import {
-  Img, Body, MyStyleProducts
-} from './styled-components/style';
+import { Body, MyStyleProducts} from "./styled-components/style";
+import Data from './data/products.json'
 function App() {
   return (
     <Body>
-        {/* <MyStyleProducts> */}
-            <ProductComponent/>
-        {/* </MyStyleProducts> */}
+        <MyStyleProducts>
+          {
+            Data.map((single)=>
+            <ProductComponent data={single}/>
+            )
+          }
+        </MyStyleProducts>
     </Body>
   );
 }

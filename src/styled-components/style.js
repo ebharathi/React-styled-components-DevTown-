@@ -13,7 +13,31 @@ const MyStyleProducts = styled.div`
   margin:0px 80px;
   display:grid;
   grid-template-columns:16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
-
+  @media screen and (max-width:1500px)
+  {
+    margin:0px 40px;
+      grid-template-columns:20% 20% 20% 20% 20%;
+  }
+  @media screen and (max-width:1200px)
+  {
+    margin:0px 20px;
+      grid-template-columns:25% 25% 25% 25%;
+  }
+  @media screen and (max-width:968px)
+  {
+    margin:0px 20px;
+      grid-template-columns:33% 33% 33%;
+  }
+  @media screen and (max-width:762px)
+  {
+    margin:0px 20px;
+      grid-template-columns:50% 50%;
+  }
+  @media screen and (max-width:568px)
+  {
+    margin:0px 10px;
+      grid-template-columns:100%;
+  }
 `;
 const Product=styled.div`
 background:#fff;
@@ -38,6 +62,7 @@ transition: transform 2s;
 `
 const Img=styled.img`
   width:100%;
+  height:320px;
   border-radius:50px;
   transition: all 0.5s ease-in-out;
   cursor:pointer;
@@ -53,11 +78,11 @@ const TitleParent=styled.div`
 const Title=styled.div`
         position:relative;
         top:-15px;
-        padding: 12px 30px;
+        padding: 6px 20px;
+        font-size:14px;
         border: 1px solid #313131;
         background:#212121;
         color:#fff;
-        width:50px;
         box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
         border-radius:27px;
         transition: all 0.05s ease-in-out;

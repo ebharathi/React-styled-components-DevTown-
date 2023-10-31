@@ -1,0 +1,52 @@
+[
+      {
+        "id": 1,
+        "image": "https://ik.imagekit.io/wb2spwtue/kreeva/tr:h-430,w-315,q-80,cm-pad_resize/media/catalog/product/2/3/2332_1.jpg",
+        "title": "Women's wear",
+        "description": "This is the description for Product 1. It is a high-quality product with great features.",
+        "price": 199.99,
+        "category":"https://img.icons8.com/flat-round/64/modelled-dress.png"
+      },
+      {
+        "id": 2,
+        "image": "https://www.91-img.com/pictures/151039-v4-vivo-t2x-mobile-phone-large-1.jpg",
+        "title": "Iphone 28X",
+        "description": "Product 2 is a versatile item with multiple uses. It's perfect for your needs.",
+        "price": 209.49,
+        "category":"https://img.icons8.com/office/16/android.png"
+      },
+      {
+        "id": 3,
+        "image": "https://rukminim2.flixcart.com/image/850/1000/jc3ope80/kit/c/q/f/junior-size-5-7-pc-cricket-combo-kit-bag-1-bat-3-wickets-1-original-imaffbbdrpzxyfhu.jpeg?q=90",
+        "title": "Cricket Kits",
+        "description": "Introducing Product 3 - the latest innovation in the market. Don't miss out!",
+        "price": 39.99,
+        "category":"https://img.icons8.com/pulsar-color/48/sports.png"
+      },
+      {
+        "id": 4,
+        "image":"https://images.meesho.com/images/products/231387117/w23cy_512.webp",
+        "title": "Sarca Men Tshirt",
+        "description": "Introducing Product 3 - the latest innovation in the market. Don't miss out!",
+        "price": 39.99,
+        "category":"https://img.icons8.com/cute-clipart/64/t-shirt.png"
+      }
+      ,
+      {
+        "id": 5,
+        "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/23262424/2023/5/18/00ceeb1c-1fb5-48a8-82bc-58f98c8f48611684426624475SportsShoes1.jpg",
+        "title": "Pum-Hux",
+        "description": "Introducing Product 3 - the latest innovation in the market. Don't miss out!",
+        "price": 39.99,
+        "category":"https://img.icons8.com/plasticine/100/press-break-pedal.png"
+      }
+      ,
+      {
+        "id": 6,
+        "image":"https://staticimg.titan.co.in/Fastrack/Catalog/3281KM02_1.jpg?impolicy=pqlow&imwidth=640",
+        "title": "Fastrack",
+        "description": "Introducing Product 3 - the latest innovation in the market. Don't miss out!",
+        "price": 39.99,
+        "category":"https://img.icons8.com/emoji/48/watch-emoji.png"
+      }
+    ]
