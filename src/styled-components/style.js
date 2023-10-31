@@ -131,4 +131,13 @@ const Page=styled.div`
     border:1px solid black;
   }
 `
-export { Img, Body, MyStyleProducts,Product,ImgParent,TitleParent,Title,Desc,Paragraph,Footer,Price,Category,CategoryImage,Pagination_Container,Page};
+const CurrentPage=styled.div`
+  border-radius:50%;
+  padding:12px;
+  cursor:pointer;
+  margin:5px;
+    background-color:white;
+    color:black;
+    border:1px solid black;
+`
+export { Img, Body, MyStyleProducts,Product,ImgParent,TitleParent,Title,Desc,Paragraph,Footer,Price,Category,CategoryImage,Pagination_Container,Page,CurrentPage};
