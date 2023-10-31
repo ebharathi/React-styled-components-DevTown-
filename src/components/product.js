@@ -1,4 +1,4 @@
-import { Product,Img, ImgParent, MyStyleProducts,TitleParent,Title ,Desc,Paragraph,Footer,Price,Category,CategoryImage} from "../styled-components/style";
+import { Product,Img, ImgParent,TitleParent,Title ,Desc,Paragraph,Footer,Price,Category,CategoryImage} from "../styled-components/style";
 const ProductComponent=({data})=>{
     return (
         <Product>
