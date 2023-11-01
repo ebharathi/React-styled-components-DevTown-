@@ -140,4 +140,17 @@ const CurrentPage=styled.div`
     color:black;
     border:1px solid black;
 `
-export { Img, Body, MyStyleProducts,Product,ImgParent,TitleParent,Title,Desc,Paragraph,Footer,Price,Category,CategoryImage,Pagination_Container,Page,CurrentPage};
+const Filter=styled.div`
+  margin:20px 80px;
+  padding:10px;
+  display:flex;
+  justify-content:right;
+`
+const InputText=styled.input`
+  min-width:350px;
+  padding:15px 20px;
+  border:1px solid grey;
+  border-radius:10px;
+  outline:none;
+`
+export { Img, Body, MyStyleProducts,Product,ImgParent,TitleParent,Title,Desc,Paragraph,Footer,Price,Category,CategoryImage,Pagination_Container,Page,CurrentPage,Filter,InputText};
